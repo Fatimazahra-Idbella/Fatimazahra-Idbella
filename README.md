@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🌱 I’m currently an engineering student<br>- 👨‍💻 I’m working on some mini projects<br>- 📫 How to reach me: adblafatmtalzhra@gmail.com<br>- ⚡ Fun fact: As an astrophile, I often find myself gazing at the stars, wondering if coding will still work in another galaxy. 🚀✨<br>
+🌱 I’m currently an engineering student<br> 👨‍💻 I’m working on some mini projects<br> 📫 How to reach me: adblafatmtalzhra@gmail.com<br> ⚡ Fun fact: As an astrophile, I often find myself gazing at the stars, wondering if coding will still work in another galaxy. 🚀✨<br>
 
 
 ## 🌐 Socials:
