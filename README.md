@@ -6,7 +6,7 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/fatizahra_id?igsh=aXo5OGF4MmRsdDEw&utm_source=qr)
- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/15ji98uZ6F/?mibextid=wwXIfr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatima-ezzahra-idbella/)[![HelloTalk](https://img.shields.io/badge/-HelloTalk-purple?style=flat&logo=hellotalk&logoColor=white)](https://hellotalk.com/u/hello_fati56)
+ [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/15ji98uZ6F/?mibextid=wwXIfr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatima-ezzahra-idbella/) [![HelloTalk](https://img.shields.io/badge/-HelloTalk-purple?style=flat&logo=hellotalk&logoColor=white)](https://hellotalk.com/u/hello_fati56)
  [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pin.it/1TfjHppa7) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Flower-385?ch=17&oid=1493655541&share=e0d243ba&srid=ueULAR&target_type=user) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/u/First_Cap_8450/s/UoxogIG1cM) 
 
 # 💻 Tech Stack:
