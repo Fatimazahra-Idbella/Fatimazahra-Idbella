@@ -1,165 +1,35 @@
-# ✦ Hey, I'm Fatima Ezzahra 👩🏻‍💻
+## Hi there 👋
 
-### `Software Engineer · GIS · Full-Stack · GeoAI`
-
-> *Building things that live somewhere between code, maps, data & imagination.* ✦
-
-I'm a **Software Engineer** with an engineering background in **Geographic Information Systems (GIS)**, passionate about creating intelligent, elegant and meaningful digital experiences.
-
-I enjoy turning complex ideas into **clean interfaces, scalable applications and intelligent geospatial solutions** — from backend services and APIs to interactive maps and data-driven platforms.
-
-Currently exploring the intersection of:
-
-**Software Engineering × Geospatial Intelligence × AI × Creative Technology**
+# 💫 About Me:
+🌱 I’m currently an engineer<br> 👨‍💻 I’m working on some mini projects<br> 📫 How to reach me: adblafatmtalzhra@gmail.com<br> ⚡ Fun fact: As an astrophile, I often find myself gazing at the stars, wondering if coding will still work in another galaxy. 🚀✨<br>
 
 
-🌙 Somewhere between pixels and coordinates,
-   I'm always building the next thing.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/fatizahra_id?igsh=aXo5OGF4MmRsdDEw&utm_source=qr)
+ [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/15ji98uZ6F/?mibextid=wwXIfr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatima-ezzahra-idbella/) [![HelloTalk](https://img.shields.io/badge/-HelloTalk-purple?style=flat&logo=hellotalk&logoColor=white)](https://hellotalk.com/u/hello_venus03)
+ [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pin.it/1TfjHppa7) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Flower-385?ch=17&oid=1493655541&share=e0d243ba&srid=ueULAR&target_type=user) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/u/First_Cap_8450/s/UoxogIG1cM) [![Kaggle](https://img.shields.io/badge/Kaggle-%230095D5.svg?logo=Kaggle&logoColor=white)](https://www.kaggle.com/fatimaezzahraidbella)
 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Fatimazahra-Idbella&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Fatimazahra-Idbella&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fatimazahra-Idbella&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Fatimazahra-Idbella&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🪞 A little about me
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-* 🎓 Engineering graduate from **École Hassania des Travaux Publics (EHTP)**
-* 💻 Full-Stack Software Engineer
-* 🗺️ Passionate about **GIS & Geospatial Technologies**
-* 🤖 Exploring **GeoAI, LLMs, RAG & intelligent systems**
-* 🧩 Interested in **microservices & scalable architectures**
-* 🌱 Always learning, experimenting and building
-* ✨ I like turning ideas into things people can actually use
-* 🌌 Astrophile at heart — still wondering whether the code would compile in another galaxy.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Fatimazahra-Idbella&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Fatimazahra-Idbella&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 💌 Let's connect
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/fidbella) 
 
-<a href="https://www.linkedin.com/in/fatima-ezzahra-idbella/">
-  <img src="https://img.shields.io/badge/LinkedIn-Fatima%20Ezzahra%20Idbella-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<br><br>
-
-> *Open to interesting ideas, collaborations and opportunities.*
-
----
-
-# 🧠 Tech Universe
-
-### 💻 Languages
-
-![C](https://img.shields.io/badge/C-111827?style=for-the-badge\&logo=c\&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/C%2B%2B-111827?style=for-the-badge\&logo=c%2B%2B\&logoColor=00599C)
-![C#](https://img.shields.io/badge/C%23-111827?style=for-the-badge\&logo=csharp\&logoColor=239120)
-![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge\&logo=openjdk\&logoColor=ED8B00)
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge\&logo=python\&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-111827?style=for-the-badge\&logo=php\&logoColor=777BB4)
-![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge\&logo=html5\&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge\&logo=css3\&logoColor=1572B6)
-
-### ⚡ Frameworks & Development
-
-![Angular](https://img.shields.io/badge/Angular-111827?style=for-the-badge\&logo=angular\&logoColor=DD0031)
-![React](https://img.shields.io/badge/React-111827?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-111827?style=for-the-badge\&logo=springboot\&logoColor=6DB33F)
-![.NET](https://img.shields.io/badge/.NET-111827?style=for-the-badge\&logo=dotnet\&logoColor=512BD4)
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge\&logo=nodedotjs\&logoColor=339933)
-![Express.js](https://img.shields.io/badge/Express.js-111827?style=for-the-badge\&logo=express\&logoColor=FFFFFF)
-![Django](https://img.shields.io/badge/Django-111827?style=for-the-badge\&logo=django\&logoColor=44B78B)
-![Laravel](https://img.shields.io/badge/Laravel-111827?style=for-the-badge\&logo=laravel\&logoColor=FF2D20)
-![Flutter](https://img.shields.io/badge/Flutter-111827?style=for-the-badge\&logo=flutter\&logoColor=02569B)
-
-### 🗺️ GIS & Geospatial
-
-![QGIS](https://img.shields.io/badge/QGIS-111827?style=for-the-badge\&logo=qgis\&logoColor=589632)
-![ArcGIS](https://img.shields.io/badge/ArcGIS%20Pro-111827?style=for-the-badge\&logo=esri\&logoColor=2C7AC3)
-![GeoServer](https://img.shields.io/badge/GeoServer-111827?style=for-the-badge\&logo=geoserver\&logoColor=FFFFFF)
-![PostGIS](https://img.shields.io/badge/PostGIS-111827?style=for-the-badge\&logo=postgresql\&logoColor=4169E1)
-![Leaflet](https://img.shields.io/badge/Leaflet-111827?style=for-the-badge\&logo=leaflet\&logoColor=199900)
-![OpenLayers](https://img.shields.io/badge/OpenLayers-111827?style=for-the-badge\&logo=openlayers\&logoColor=FFFFFF)
-![Cesium](https://img.shields.io/badge/Cesium-111827?style=for-the-badge\&logo=cesium\&logoColor=FFFFFF)
-
-### 🤖 Data & AI
-
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge\&logo=python\&logoColor=3776AB)
-![Pandas](https://img.shields.io/badge/Pandas-111827?style=for-the-badge\&logo=pandas\&logoColor=150458)
-![NumPy](https://img.shields.io/badge/NumPy-111827?style=for-the-badge\&logo=numpy\&logoColor=013243)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-111827?style=for-the-badge\&logo=matplotlib\&logoColor=FFFFFF)
-
-**Machine Learning · NLP · LLM · RAG · GeoAI · Big Data**
-
-### ☁️ DevOps & Tools
-
-![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge\&logo=docker\&logoColor=2496ED)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-111827?style=for-the-badge\&logo=kubernetes\&logoColor=326CE5)
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge\&logo=git\&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge\&logo=github\&logoColor=FFFFFF)
-![GitLab](https://img.shields.io/badge/GitLab-111827?style=for-the-badge\&logo=gitlab\&logoColor=FC6D26)
-![Jenkins](https://img.shields.io/badge/Jenkins-111827?style=for-the-badge\&logo=jenkins\&logoColor=D24939)
-![Postman](https://img.shields.io/badge/Postman-111827?style=for-the-badge\&logo=postman\&logoColor=FF6C37)
-![Keycloak](https://img.shields.io/badge/Keycloak-111827?style=for-the-badge\&logo=keycloak\&logoColor=4D4D4D)
-
----
-
-
-
-# 📊 GitHub Activity
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Fatimazahra-Idbella&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fatimazahra-Idbella&layout=compact&hide_border=true&theme=transparent" height="165"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Fatimazahra-Idbella&theme=transparent&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Fatimazahra-Idbella&theme=algolia&no-frame=true&no-bg=true&margin-w=8"/>
-
-</p>
-
----
-
-# 🌙 Beyond the Code
-
-
-╭──────────────────────────────────────────────╮
-│                                              │
-│   I write code.                              │
-│   I build maps.                              │
-│   I explore AI.                              │
-│   I stare at the stars.                      │
-│                                              │
-│   Somewhere between Earth & the cloud...     │
-│   I'm still building. ✦                      │
-│                                              │
-╰──────────────────────────────────────────────╯
-
-
-> **"Stay curious. Build boldly. Leave something beautiful behind."**
-
----
-
-<p align="center">
-
-### ✦ Thanks for stopping by ✦
-
-`code` · `maps` · `data` · `AI` · `stars`
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Fatimazahra-Idbella&label=Profile%20Views&color=blueviolet&style=flat-square"/>
-
-</p>
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
