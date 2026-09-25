@@ -1,84 +1,165 @@
-<div align="center">
+# ✦ Hey, I'm Fatima Ezzahra 👩🏻‍💻
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=220&section=header&text=Fatima%20Ezzahra&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=software%20engineer%20%7C%20gis%20%7C%20code%20%26%20stars&descAlignY=58&descSize=18"/>
+### `Software Engineer · GIS · Full-Stack · GeoAI`
 
-<br>
+> *Building things that live somewhere between code, maps, data & imagination.* ✦
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=22&duration=3000&pause=1000&color=E88BB8&center=true&vCenter=true&width=600&lines=Software+Engineer+%E2%9C%A6;GIS+%26+Geospatial+Technologies+%F0%9F%97%BA%EF%B8%8F;Full-Stack+Developer+%F0%9F%92%BB;Exploring+AI+%26+GeoAI+%F0%9F%8C%99;Always+building+something+new+%E2%9C%A8"/>
+I'm a **Software Engineer** with an engineering background in **Geographic Information Systems (GIS)**, passionate about creating intelligent, elegant and meaningful digital experiences.
 
-<br>
+I enjoy turning complex ideas into **clean interfaces, scalable applications and intelligent geospatial solutions** — from backend services and APIs to interactive maps and data-driven platforms.
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="180">
+Currently exploring the intersection of:
 
-### `✦ somewhere between code & the stars ✦`
+**Software Engineering × Geospatial Intelligence × AI × Creative Technology**
 
-</div>
 
-<br>
+🌙 Somewhere between pixels and coordinates,
+   I'm always building the next thing.
 
-<div align="center">
-
-💗 **Software Engineer**
-🗺️ **GIS & Geospatial Technologies**
-🤍 **Full-Stack Development**
-🌙 **AI · GeoAI · Data**
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/fatima-ezzahra-idbella/">
-<img src="https://img.shields.io/badge/LinkedIn-E88BB8?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
-<br>
 
 ---
 
-<div align="center">
+## 🪞 A little about me
 
-### `✧ my little tech universe ✧`
+* 🎓 Engineering graduate from **École Hassania des Travaux Publics (EHTP)**
+* 💻 Full-Stack Software Engineer
+* 🗺️ Passionate about **GIS & Geospatial Technologies**
+* 🤖 Exploring **GeoAI, LLMs, RAG & intelligent systems**
+* 🧩 Interested in **microservices & scalable architectures**
+* 🌱 Always learning, experimenting and building
+* ✨ I like turning ideas into things people can actually use
+* 🌌 Astrophile at heart — still wondering whether the code would compile in another galaxy.
 
-<br>
+---
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,cs,js,html,css,angular,react,spring,dotnet,nodejs,flutter,django,laravel&theme=light" />
+## 💌 Let's connect
+
+<a href="https://www.linkedin.com/in/fatima-ezzahra-idbella/">
+  <img src="https://img.shields.io/badge/LinkedIn-Fatima%20Ezzahra%20Idbella-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,kubernetes,git,github,gitlab,postman&theme=light" />
+> *Open to interesting ideas, collaborations and opportunities.*
 
-<br><br>
+---
 
-<img src="https://skillicons.dev/icons?i=qgis,python,postgres,aws,azure&theme=light" />
+# 🧠 Tech Universe
 
-</div>
+### 💻 Languages
+
+![C](https://img.shields.io/badge/C-111827?style=for-the-badge\&logo=c\&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/C%2B%2B-111827?style=for-the-badge\&logo=c%2B%2B\&logoColor=00599C)
+![C#](https://img.shields.io/badge/C%23-111827?style=for-the-badge\&logo=csharp\&logoColor=239120)
+![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge\&logo=openjdk\&logoColor=ED8B00)
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge\&logo=python\&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-111827?style=for-the-badge\&logo=php\&logoColor=777BB4)
+![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge\&logo=html5\&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge\&logo=css3\&logoColor=1572B6)
+
+### ⚡ Frameworks & Development
+
+![Angular](https://img.shields.io/badge/Angular-111827?style=for-the-badge\&logo=angular\&logoColor=DD0031)
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-111827?style=for-the-badge\&logo=springboot\&logoColor=6DB33F)
+![.NET](https://img.shields.io/badge/.NET-111827?style=for-the-badge\&logo=dotnet\&logoColor=512BD4)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge\&logo=nodedotjs\&logoColor=339933)
+![Express.js](https://img.shields.io/badge/Express.js-111827?style=for-the-badge\&logo=express\&logoColor=FFFFFF)
+![Django](https://img.shields.io/badge/Django-111827?style=for-the-badge\&logo=django\&logoColor=44B78B)
+![Laravel](https://img.shields.io/badge/Laravel-111827?style=for-the-badge\&logo=laravel\&logoColor=FF2D20)
+![Flutter](https://img.shields.io/badge/Flutter-111827?style=for-the-badge\&logo=flutter\&logoColor=02569B)
+
+### 🗺️ GIS & Geospatial
+
+![QGIS](https://img.shields.io/badge/QGIS-111827?style=for-the-badge\&logo=qgis\&logoColor=589632)
+![ArcGIS](https://img.shields.io/badge/ArcGIS%20Pro-111827?style=for-the-badge\&logo=esri\&logoColor=2C7AC3)
+![GeoServer](https://img.shields.io/badge/GeoServer-111827?style=for-the-badge\&logo=geoserver\&logoColor=FFFFFF)
+![PostGIS](https://img.shields.io/badge/PostGIS-111827?style=for-the-badge\&logo=postgresql\&logoColor=4169E1)
+![Leaflet](https://img.shields.io/badge/Leaflet-111827?style=for-the-badge\&logo=leaflet\&logoColor=199900)
+![OpenLayers](https://img.shields.io/badge/OpenLayers-111827?style=for-the-badge\&logo=openlayers\&logoColor=FFFFFF)
+![Cesium](https://img.shields.io/badge/Cesium-111827?style=for-the-badge\&logo=cesium\&logoColor=FFFFFF)
+
+### 🤖 Data & AI
+
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge\&logo=python\&logoColor=3776AB)
+![Pandas](https://img.shields.io/badge/Pandas-111827?style=for-the-badge\&logo=pandas\&logoColor=150458)
+![NumPy](https://img.shields.io/badge/NumPy-111827?style=for-the-badge\&logo=numpy\&logoColor=013243)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-111827?style=for-the-badge\&logo=matplotlib\&logoColor=FFFFFF)
+
+**Machine Learning · NLP · LLM · RAG · GeoAI · Big Data**
+
+### ☁️ DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge\&logo=docker\&logoColor=2496ED)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-111827?style=for-the-badge\&logo=kubernetes\&logoColor=326CE5)
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge\&logo=git\&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge\&logo=github\&logoColor=FFFFFF)
+![GitLab](https://img.shields.io/badge/GitLab-111827?style=for-the-badge\&logo=gitlab\&logoColor=FC6D26)
+![Jenkins](https://img.shields.io/badge/Jenkins-111827?style=for-the-badge\&logo=jenkins\&logoColor=D24939)
+![Postman](https://img.shields.io/badge/Postman-111827?style=for-the-badge\&logo=postman\&logoColor=FF6C37)
+![Keycloak](https://img.shields.io/badge/Keycloak-111827?style=for-the-badge\&logo=keycloak\&logoColor=4D4D4D)
+
+---
+
+
+
+# 📊 GitHub Activity
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Fatimazahra-Idbella&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fatimazahra-Idbella&layout=compact&hide_border=true&theme=transparent" height="165"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Fatimazahra-Idbella&theme=transparent&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Fatimazahra-Idbella&theme=algolia&no-frame=true&no-bg=true&margin-w=8"/>
+
+</p>
+
+---
+
+# 🌙 Beyond the Code
+
+
+╭──────────────────────────────────────────────╮
+│                                              │
+│   I write code.                              │
+│   I build maps.                              │
+│   I explore AI.                              │
+│   I stare at the stars.                      │
+│                                              │
+│   Somewhere between Earth & the cloud...     │
+│   I'm still building. ✦                      │
+│                                              │
+╰──────────────────────────────────────────────╯
+
+
+> **"Stay curious. Build boldly. Leave something beautiful behind."**
+
+---
+
+<p align="center">
+
+### ✦ Thanks for stopping by ✦
+
+`code` · `maps` · `data` · `AI` · `stars`
 
 <br>
 
-<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Fatimazahra-Idbella&label=Profile%20Views&color=blueviolet&style=flat-square"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Fatimazahra-Idbella&show_icons=true&hide_border=true&bg_color=fff7fb&title_color=e88bb8&icon_color=e88bb8&text_color=6f6170&include_all_commits=true&count_private=true" height="150"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fatimazahra-Idbella&layout=compact&hide_border=true&bg_color=fff7fb&title_color=e88bb8&text_color=6f6170" height="150"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=18&duration=4000&pause=1500&color=D982AA&center=true&vCenter=true&width=500&lines=creating+%E2%9C%A7+exploring+%E2%9C%A7+learning;dreaming+in+code+%F0%9F%8C%B8;lost+somewhere+in+the+universe+%F0%9F%8C%99;one+commit+at+a+time+%E2%9C%A8"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer&animation=twinkling"/>
-
-</div>
+</p>
